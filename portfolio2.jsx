@@ -28,7 +28,7 @@ const PERSONAL_INFO = {
   location: "Kharagpur, West Bengal, India",
   // NOTE: The live preview requires a web URL. 
   // When hosting locally, change this back to: "profile.jpeg"
-  profileImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800"
+  profileImage: "profile.jpeg"
 };
 
 const EDUCATION = [
@@ -110,7 +110,7 @@ const PROJECTS = [
     ],
     icon: <Settings size={20} />,
     // When hosting locally, change this back to: "abenics.jpg"
-    image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=800" 
+    image: "abenics.jpg" 
   },
   {
     title: "F1tenth Simulation",
@@ -122,24 +122,24 @@ const PROJECTS = [
     ],
     icon: <Code size={20} />,
     // When hosting locally, change this back to: "f1tenth.jpg"
-    image: "https://images.unsplash.com/photo-1527430253228-e93688616381?auto=format&fit=crop&q=80&w=800"
+    image: "f1tenth.png"
   }
 ];
 
 const HOBBIES = [
   {
-    title: "Water Polo",
+    title: "Swimming and Water Polo",
     icon: <Droplet size={24} />,
-    description: "Silver and Bronze medals at the 2025 Invitation Championship.",
+    description: "Silver and Bronze medals at the 2025 Invitation Championship and the Inter Hall Sports Championship 2025.",
     // When hosting locally, change this back to: "swimming.jpeg"
-    image: "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&q=80&w=800"
+    image: "swimming.jpeg"
   },
   {
     title: "Drums & Percussion",
     icon: <Music size={24} />,
     description: "3rd Place in Open IIT Instrumentals 2024 (Drumming).",
     // When hosting locally, change this back to: "drumming.jpeg"
-    image: "https://images.unsplash.com/photo-1519892300165-cb5542fb47c7?auto=format&fit=crop&q=80&w=800"
+    image: "drumming.jpeg"
   },
   {
     title: "Street Play (Dramatics)",
