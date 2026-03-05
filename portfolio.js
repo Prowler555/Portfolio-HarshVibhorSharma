@@ -138,7 +138,7 @@ const HOBBIES = [
     title: "Dramatics (Street Play)",
     icon: <VenetianMask size={32} className="text-purple-500" />,
     description: "4th position in Inter-Hall Street Play Competition 2025.",
-    image: "https://images.unsplash.com/photo-1514525253344-99a396b30f81?auto=format&fit=crop&q=80&w=1000" // Theater vibe
+    image: "Street-Play.jpeg"
   }
 ];
 

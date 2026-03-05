@@ -145,7 +145,7 @@ const HOBBIES = [
     title: "Street Play (Dramatics)",
     icon: <VenetianMask size={24} />,
     description: "4th position in Inter-Hall Street Play Competition 2025.",
-    image: "https://images.unsplash.com/photo-1507676184212-d0330a151f96?auto=format&fit=crop&q=80&w=800"
+    image: "Street-Play.jpeg"
   }
 ];
 
@@ -186,7 +186,7 @@ export default function App() {
               <MapPin size={12}/> {PERSONAL_INFO.location}
             </div>
             <h1 className="text-6xl md:text-8xl font-black text-white mb-6 leading-none tracking-tight">
-              HARSH <br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400">SHARMA</span>
+              HARSH VIBHOR <br /> <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400">SHARMA</span>
             </h1>
             <p className="text-xl text-slate-400 mb-10 font-light max-w-lg leading-relaxed">
               {PERSONAL_INFO.tagline}
