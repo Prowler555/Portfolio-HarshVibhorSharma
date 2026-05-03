@@ -139,7 +139,7 @@ const HOBBIES = [
     icon: <Music size={24} />,
     description: "3rd Place in Open IIT Instrumentals 2024 (Drumming).",
     // When hosting locally, change this back to: "drumming.jpeg"
-    image: "drumming.jpeg"
+    image: "drums.png"
   },
   {
     title: "Street Play (Dramatics)",
